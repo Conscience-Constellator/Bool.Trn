@@ -1,0 +1,8 @@
+{
+  "project_root": ".",
+  "modules": "CC.Bool.Trn",
+  "entry_points": "",
+  "priority": "",
+  "repo_urls": "https://github.com/Conscience-Constellator/Bool.Trn",
+  "notes": "No mains"
+}
